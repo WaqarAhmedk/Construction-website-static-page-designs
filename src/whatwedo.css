@@ -1,0 +1,90 @@
+.wedo-div-4{
+    display: flex;
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+.wedo-div-4-inner-1{
+    margin-left: 50px;
+    width: 500px;
+    
+}
+
+.wedo-div-4-ul{
+    list-style: none;
+  
+
+}
+
+.wedo-div-4-ul >li{
+  padding: 15px;
+  padding-left: 0%;
+  border-bottom: 1px solid gray;
+  
+}
+.wedo-div-4-ul >li>span{
+ 
+    padding-bottom: 20px;
+   
+  
+  }
+.wedo-div-4-ul-icon{
+    margin-left: 90px;
+    font-size: 10px;
+
+}
+
+
+
+.wedo-div-4-down{
+    display: flex;
+    align-items: center;
+    border: 1px solid red;
+}
+.wedo-div-4-down >div{
+   width: 40px;
+   height: 50px;
+   background-color: red;
+}
+
+
+
+
+.wedo-div-4-2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+   
+   
+}
+
+.wedo-div-4-inner{
+   background-image: none;
+   margin-left: 20px;
+   margin-right: 20px;
+   width: min-content;
+   margin-bottom: 50px;
+
+}
+
+
+.wedo-div-4-img{
+    height: 180px;
+
+}
+.wedo-div-4-title{
+    margin-top: 20px;
+    text-align: start;
+    font-size: large;
+    font-weight: 400;
+}
+
+.wedo-div-4-inner >p{
+    color: gray;
+    text-align: start;
+    font-size: small
+}
+.wedo-div-4-inner >span{
+    color: #FCC334;
+    text-align: start;
+    font-size: large
+}

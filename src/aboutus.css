@@ -1,0 +1,55 @@
+.about-div-4{
+    display: flex;
+    margin-top: 110px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.about-div-4-inner-1{
+    
+    margin-left: 50px;
+    width: 500px;
+    
+}
+.about-div-4-img-1{
+    height: 600px;
+}
+
+
+
+
+
+
+.about-div-4-2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+   
+   
+}
+
+.about-div-4-inner{
+   background-image: none;
+   margin-left: 20px;
+   margin-right: 20px;
+   width: min-content;
+   margin-bottom: 50px;
+
+}
+
+
+.about-div-4-img{
+    height: 150px;
+
+}
+.about-div-4-title{
+    margin-top: 20px;
+    text-align: start;
+    font-size: large;
+    font-weight: 400;
+}
+
+.about-div-4-inner >p{
+    color: gray;
+    text-align: start;
+    font-size: small
+}

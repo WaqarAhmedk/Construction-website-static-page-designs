@@ -1,0 +1,211 @@
+.p-nav-1-main-div {
+    background-color: rgb(249, 249, 249);
+    color: #C6C4C3;
+    border-bottom: 1px solid #C6C4C3;
+    padding: 0%;
+    margin: 0%;
+
+
+}
+
+.p-ul-1 {
+    margin-left: 90px;
+    border: 1px solid #C6C4C3;
+    border-bottom: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 11px;
+    padding-bottom: 5px;
+}
+
+.p-ul-1>li {
+    color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.p-ul-1>li :hover {
+    color: #FCC334;
+}
+
+.small-nav-icon {
+    color: #C6C4C3;
+    font-size: 12px;
+}
+
+.nav-1-link {
+    color: #C6C4C3;
+    font-size: small;
+}
+
+.p-nav-1-ul-2 {
+    margin-right: 100px;
+    border: 1px solid #C6C4C3;
+    border-bottom: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#navbarSupportedContent {
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+/* nav 2 */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    color: black;
+    min-width: 180px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown-content>li {
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+
+.dropdown-content>li:hover {
+    color: #FCC334;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.p-nav-2-main-div {
+    margin-top: 20px;
+    margin-left: 82px;
+    background-color: white;
+    color: black;
+
+}
+
+.p-nav-2-main-div-fixed {
+    top: 0%;
+    
+    padding: 40px;
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    position: fixed;
+
+}
+
+.p-nav-2-ul {
+    margin-left: 300px;
+}
+
+.p-nav-2-ul>li {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-right: 1px solid gray;
+    padding-right: 15px;
+}
+
+.p-nav-2-ul>li>a:hover {
+
+    color: #FCC334;
+}
+
+.p-nav-2-link {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+/* 3rd */
+
+.third-div-main {
+    padding-top: 50px;
+    height: 170px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+
+.third-div-inner-div-1 {
+    height: 160px;
+    background-image: url("./images/consultation22.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.third-div-overlay {
+    background: rgba(255, 255, 255, 0.699);
+    height: 100%;
+}
+
+
+.third-div-overlay-inner {
+    padding-top: 50px;
+    padding-left: 90px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.third-div-overlay-inner>nav {
+    margin-left: 900px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+/* div 4 */
+
+
+.p-div-4 {
+    text-align: center;
+    padding-left: 400px;
+    width: auto;
+}
+
+
+
+/* div 5 */
+
+
+.p-div-5 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+
+.p-div-5-inner {
+    background-image: none;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    height: 250px;
+}
+
+.p-div-5-inner:hover {
+    color: #FCC334;
+}
+
+.p-div-5-img {
+    height: 180px;
+
+}
+
+.p-div-5-title {
+    margin-top: 20px;
+    text-align: center;
+}
